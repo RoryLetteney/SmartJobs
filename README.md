@@ -1,1 +1,3 @@
-# Job-board
+# SmartJobs Job Board
+
+The SmartJobs job board was designed to connect job seekers that place a high value on student loan reimbursement benefits with employers offering student loan reimbursement benefits. Built using JavaScript, CSS, and HTML job seekers can quickly discern which jobs best meet their needs and desires; the job seeker can then hover their mouse over a job listing and it will flip over revealing more information about the position, as well as providing a link to apply. Job seekers are also given the ability to filter job listings based upon location and save job listings to their list of favorites. The list of favorited job listings can be viewed later on a separate page. For employers, functionality has been added to actually post a new job listing. For this project localStorage was used to simulate a database, and it holds the job listings and the favorited jobs list.
